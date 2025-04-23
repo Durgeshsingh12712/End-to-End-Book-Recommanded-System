@@ -6,3 +6,10 @@ DataIngestionConfig = namedtuple("DatasetConfig", [
     "ingested_dir"
 ])
 
+
+DataValidationConfig = namedtuple("DataValidationConfig", [
+    "clean_data_dir",
+    "books_csv_file",
+    "ratings_csv_file",
+    "serialized_objects_dir"
+])
