@@ -20,3 +20,10 @@ Python version 3.7
 4. Stage 2 DataValidation
 5. Update Training Pipeline
 6. run Main.py
+
+1. config.yaml update
+2. entity update
+3. configuration update
+4. Stage 3 Data Transformed
+5. update Training Pipeline
+6. run main.py
