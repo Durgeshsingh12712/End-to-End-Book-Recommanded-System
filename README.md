@@ -75,7 +75,7 @@ git clone "your-project"
 ```
 
 ```bash
-docker build -t durgeshsingh12712/stapp:latest . 
+docker build -t durgeshsingh12712/bookapp:latest . 
 ```
 
 ```bash
@@ -83,7 +83,7 @@ docker images -a
 ```
 
 ```bash
-docker run -d -p 8501:8501 durgeshsingh12712/stapp 
+docker run -d -p 8501:8501 durgeshsingh12712/bookapp 
 ```
 
 ```bash
@@ -103,13 +103,13 @@ docker login
 ```
 
 ```bash
-docker push durgeshsingh12712/stapp:latest 
+docker push durgeshsingh12712/bookapp:latest 
 ```
 
 ```bash
-docker rmi durgeshsingh12712/stapp:latest
+docker rmi durgeshsingh12712/bookapp:latest
 ```
 
 ```bash
-docker pull durgeshsingh12712/stapp
+docker pull durgeshsingh12712/bookapp
 ```
