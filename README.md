@@ -27,3 +27,16 @@ Python version 3.7
 4. Stage 3 Data Transformed
 5. update Training Pipeline
 6. run main.py
+
+1. config.yaml update
+2. entity update
+3. configuration update
+4. Stage 4 model trainer
+5. update Training Pipeline
+6. run main.py
+
+1. config.yaml update
+2. entity update
+3. configuration update
+4. App.py update
+5. run app.py
